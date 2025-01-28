@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+.contact{
+    background-color: orchid;
+}
+h2{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
